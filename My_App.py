@@ -1,11 +1,11 @@
 import streamlit as st
 import forallpeople as si
 import io
-import eng_module.beams as beams
-import eng_module.load_factors as lf
+import apps.beams as beams
+import apps.load_factors as lf
 import tempfile
 import plotly.graph_objects as go
-import eng_module.plots as plots
+import apps.plots as plots
 import numpy as np
 import app_module
 
