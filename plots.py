@@ -1,9 +1,9 @@
-import eng_module.beams as beams
+import beams
 from typing import Optional
 from PyNite import FEModel3D
 from PyNite.Visualization import render_model
 from math import pi
-import eng_module.load_factors as lf
+import load_factors as lf
 from plotly import graph_objects as go
 import plotly.express as px
 from matplotlib.figure import Figure
