@@ -2,7 +2,7 @@ from math import pi
 from PyNite import FEModel3D
 import csv
 from PyNite.Visualization import render_model
-from eng_module.utils import str_to_int, str_to_float, read_csv_file
+from utils import str_to_int, str_to_float, read_csv_file
 from typing import Optional
 
 
